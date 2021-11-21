@@ -6,7 +6,10 @@ margin: 0;
 padding: 0;
 font: 14px/22px 'robotoregular',sans-serif;
 position: relative;
-background-color: #fff;
+background: #1b2b32;
+font-family: 'Lato', sans-serif;
+color: #FDFCFB;
+text-align: center;
 }
 
 .top_bar
