@@ -20,7 +20,36 @@ width: 100%;
 z-index: 10;
 height:100px;
 }
+.header {
+  font-size: 35px;
+  text-transform: uppercase;
+  letter-spacing: 5px;
+}
 
+
+.description {
+  font-size: 14px;
+  letter-spacing: 1px;
+  line-height: 1.3em;
+  margin: -2px 0 45px;
+}
+
+
+.input {
+  display: flex;
+  align-items: center;
+}
+
+
+.button {
+  height: 44px;
+  border: none;
+}
+.top-banner {
+  margin-bottom: 30px;
+  text-align: center;
+  background-color:transparent;
+}
 .fi_bt {
 color: #fffc00;
 display: block;
