@@ -9,7 +9,10 @@ font-family: 'Lato', sans-serif;
 color: #FDFCFB;
 text-align: center;
 }
-
+form {
+  width: 450px;
+  margin: 17% auto;
+}
 .top_bar
 {
 background: none repeat scroll 0 0 rgba(0,0,0,0.7);
