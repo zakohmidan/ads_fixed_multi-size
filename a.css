@@ -115,4 +115,9 @@ input:focus {
   box-shadow: 0 0 2px #E86C8D;
   background-color: yellow;    
 }
-
+#rightbox{
+    float:right;
+    background:transparent;
+    width:160;
+    height:600px;
+{
