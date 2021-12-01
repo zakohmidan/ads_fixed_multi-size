@@ -121,3 +121,9 @@ input:focus {
     width:160;
     height:600px;
 {
+#leftbox {
+    float:left; 
+    background:transparent;
+    width:160;
+    height:600px;
+}
